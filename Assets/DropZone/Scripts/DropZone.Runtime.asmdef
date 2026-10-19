@@ -1,0 +1,6 @@
+{
+  "name": "DropZone.Runtime",
+  "rootNamespace": "DropZone",
+  "references": ["DropZone.Core", "Unity.InputSystem", "UnityEngine.UI", "Unity.RenderPipelines.Universal.Runtime", "Unity.RenderPipelines.Core.Runtime"],
+  "autoReferenced": true
+}

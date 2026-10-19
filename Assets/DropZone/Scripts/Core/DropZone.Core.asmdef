@@ -1,0 +1,7 @@
+{
+  "name": "DropZone.Core",
+  "rootNamespace": "DropZone.Core",
+  "references": [],
+  "noEngineReferences": true,
+  "autoReferenced": true
+}

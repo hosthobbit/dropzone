@@ -1,0 +1,25 @@
+Library/
+Temp/
+Logs/
+UserSettings/
+Build/
+obj/
+*.csproj
+*.sln
+*.csproj.user
+.vs/
+.idea/
+.vscode/
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+sysinfo.txt
+mono_crash.*
+
+
+# WebGL build by-product
+Data/

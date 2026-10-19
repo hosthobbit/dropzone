@@ -1,0 +1,6 @@
+{
+  "name": "DropZone.Editor",
+  "rootNamespace": "DropZone.EditorTools",
+  "references": ["DropZone.Core", "DropZone.Runtime", "Unity.InputSystem", "UnityEngine.UI", "Unity.RenderPipelines.Universal.Runtime", "Unity.RenderPipelines.Core.Runtime"],
+  "includePlatforms": ["Editor"]
+}
